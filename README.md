@@ -118,13 +118,13 @@ disease-diagnosis-nail-image/
 
 ## 📊 Results
 
-| Metric | Score |
-|---|---|
-| Training Accuracy | *fill in once trained* |
-| Validation Accuracy | *fill in once trained* |
-| Test Accuracy | *fill in once trained* |
+| Metric | 
+|---|
+| Training Accuracy | 
+| Validation Accuracy | 
+| Test Accuracy | 
 
-*(Replace with your actual model performance once training is complete.)*
+
 
 ---
 
